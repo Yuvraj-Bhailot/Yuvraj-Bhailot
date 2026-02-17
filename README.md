@@ -13,14 +13,19 @@ Future Full Stack Developer with a primary focus on Java Full Stack development.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj-Bhailot&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Yuvraj-Bhailot.Yuvraj-Bhailot&"  />
-</div>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Yuvraj-Bhailot&icon=3&color=0)](https://visitcount.itsvg.in)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Yuvraj-Bhailot.Yuvraj-Bhailot)
+
+---
+<div align="center">
+  <img height="150" src="https://media.tenor.com/HgkFih15QhwAAAAM/jiriaya-pervy.gif" />
+</div>
+
+<img src="https://raw.githubusercontent.com/Yuvraj-Bhailot/Yuvraj-Bhailot/output/snake.svg" alt="Snake animation" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

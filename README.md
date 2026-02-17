@@ -1,7 +1,6 @@
 # 💫 About Me:
 Future Full Stack Developer with a primary focus on Java Full Stack development. Currently, I’m a college student undergoing professional training in Java Full Stack at QSpiders, where I’m building a strong foundation in both backend and frontend technologies.<br><br>I’m actively learning and working with SQL for databases and HTML/CSS for frontend development, and I enjoy creating web applications that solve real-world problems. I have experience working in team-based environments, including group projects and hackathons, which has helped me develop strong collaboration and problem-solving skills.<br><br>My goal is to become a job-ready Java Full Stack Developer, secure an internship or entry-level role, and continue building scalable, real-world projects. While I’m not currently contributing to open source, I’m eager to grow into it as I strengthen my skills.<br><br>Outside of coding, I enjoy watching anime, playing video games, listening to music, and spending time with cats 🐱🎮🎵
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvraj-bhailot-b8221a325) 
 
@@ -13,9 +12,6 @@ Future Full Stack Developer with a primary focus on Java Full Stack development.
 ![](https://nirzak-streak-stats.vercel.app/?user=Yuvraj-Bhailot&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj-Bhailot&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
 ## 👀 Profile Visitors
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Yuvraj-Bhailot.Yuvraj-Bhailot)
 
@@ -25,6 +21,7 @@ Future Full Stack Developer with a primary focus on Java Full Stack development.
   <img src="https://raw.githubusercontent.com/Yuvraj-Bhailot/Yuvraj-Bhailot/output/snake.svg" alt="Snake animation" />
 </div>
 
-
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

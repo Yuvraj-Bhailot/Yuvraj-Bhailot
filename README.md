@@ -14,7 +14,7 @@ Future Full Stack Developer with a primary focus on Java Full Stack development.
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Yuvraj-Bhailot.Yuvraj-Bhailot&"  />
 </div>
 
 ### ✍️ Random Dev Quote

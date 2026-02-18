@@ -17,7 +17,7 @@ Future Full Stack Developer with a primary focus on Java Full Stack development.
 
 ## 🤡 Contribution
 <div align="center">
-  <img height="150" src="https://media.tenor.com/HgkFih15QhwAAAAM/jiriaya-pervy.gif" />
+  <img height="300" src="https://giffiles.alphacoders.com/110/110062.gif" />
   <img src="https://raw.githubusercontent.com/Yuvraj-Bhailot/Yuvraj-Bhailot/output/snake.svg" alt="Snake animation" />
 </div>
 

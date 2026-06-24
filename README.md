@@ -21,25 +21,68 @@
 
 ## 🧑‍💻 About Me
 
-```java
-public class Yuvraj extends Developer {
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Student.+Developer.+Dreamer.;Turning+coffee+into+code+%E2%98%95;One+commit+at+a+time+%F0%9F%9A%80" alt="about typing" />
+</div>
 
-    String name        = "Yuvraj Bhailot";
-    String role        = "Future Java Full Stack Developer";
-    String training    = "QSpiders — Java Full Stack Track";
-    String location    = "India 🇮🇳";
+<br/>
 
-    String[] currentlyLearning = { "Java", "Spring Boot", "SQL", "HTML/CSS", "JavaScript" };
-    String[] interests         = { "Anime 🎌", "Video Games 🎮", "Music 🎵", "Cats 🐱" };
+<details>
+<summary><b>🎓 &nbsp;Who am I?</b></summary>
+<br/>
 
-    String goal = "Land an internship or entry-level Full Stack role"
-                + " and build scalable, real-world projects.";
+> I'm **Yuvraj Bhailot**, a Computer Science Graduate and training as a **Java Full Stack Developer** at **QSpiders**. I'm on a mission to go from learner to builder — crafting web applications that solve real problems and make a difference.
 
-    void greet() {
-        System.out.println("Hey! Thanks for visiting my profile 👋");
-    }
-}
-```
+I thrive in team environments, love hackathons, and bring both energy and curiosity to every project I work on. I'm not just learning to code — I'm learning to think like an engineer.
+
+</details>
+
+---
+
+<details>
+<summary><b>💻 &nbsp;What am I building with?</b></summary>
+<br/>
+
+- 🔷 **Backend** — Java (primary language), working toward Spring Boot & REST APIs
+- 🌐 **Frontend** — HTML5, CSS3, JavaScript for clean and responsive UIs
+- 🗄️ **Databases** — Oracle SQL & Supabase for structured data management
+- 🛠️ **Tools** — Git, GitHub, Vercel, WordPress, Arduino, Raspberry Pi
+- 🎨 **Design** — Canva, GIMP, Adobe Lightroom for visual content
+
+</details>
+
+---
+
+<details>
+<summary><b>🎯 &nbsp;What's my goal?</b></summary>
+<br/>
+
+> *"I want to become a job-ready Java Full Stack Developer — land an internship or entry-level role, build scalable real-world projects, and eventually contribute to open source."*
+
+My current roadmap:
+- ✅ Learn Java fundamentals deeply
+- 🔄 Complete Full Stack training at QSpiders
+- 🔄 Build end-to-end projects with Java + SQL + Frontend
+- 📅 Master Spring Boot & REST APIs
+- 📅 Crack an internship or entry-level dev role
+- 📅 Dive into open source contributions
+
+</details>
+
+---
+
+<details>
+<summary><b>🎌 &nbsp;What do I do outside of code?</b></summary>
+<br/>
+
+When I'm not writing code or debugging late at night, you'll find me:
+
+- 🎌 **Watching Anime** — It's not just entertainment, it's a lifestyle
+- 🎮 **Playing Video Games** — Steam, PSN, Epic Games — all platforms, no gatekeeping
+- 🎵 **Listening to Music** — The perfect background to any coding session
+- 🐱 **Spending time with Cats** — The true debugging companions
+
+</details>
 
 ---
 

@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4fff,100:00c6ff&height=200&section=header&text=Yuvraj%20Bhailot&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20in%20the%20Making&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1b2a,50:1b4fff,100:00c6ff&height=200&section=header&text=Yuvraj%20Bhailot&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20in%20the%20Making&descAlignY=58&descSize=18&animation=twinkling&fontAlign=50&descAlign=50" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -51,14 +51,13 @@ public class Yuvraj extends Developer {
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🗄️ Databases & Backend
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### ⚙️ Tools & Platforms
@@ -88,28 +87,12 @@ public class Yuvraj extends Developer {
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yuvraj-Bhailot&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-
-<!--
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Yuvraj-Bhailot&theme=blue_navy&hide_border=true" alt="GitHub Streak" />
--->
-<br/>
-
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj-Bhailot&theme=blue_navy&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 
 </div>
 
 ---
-<!--
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Yuvraj-Bhailot&theme=navy&no-frame=true&no-bg=true&margin-w=8&column=6)
-
-</div>
-
----
--->
 ## 🐍 Contribution Graph
 
 <div align="center">
@@ -163,7 +146,7 @@ public class Yuvraj extends Developer {
 <div align="center">
 
 <!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:1b4fff,100:0d1b2a&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00c6ff,50:1b4fff,100:0d1b2a&height=120&section=footer&animation=twinkling&reversal=true" />
 
 **Thanks for stopping by! Let's connect and build something awesome together. 🚀**
 

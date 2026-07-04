@@ -189,8 +189,8 @@ When I'm not writing code or debugging late at night, you'll find me:
 <div align="center">
 
 <!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00c6ff,50:1b4fff,100:0d1b2a&height=120&section=footer&animation=twinkling&reversal=true" />
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00c6ff,50:1b4fff,100:0d1b2a&height=120&section=footer&animation=twinkling&reversal=true" /> -->
 
-**Thanks for stopping by! Let's connect and build something awesome together. 🚀**
+*Thanks for stopping by! Let's connect and build something awesome together. 🚀*
 
 </div>
